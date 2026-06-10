@@ -1,3 +1,2 @@
 "Initial text"
-this is change one
-this is change two
+
